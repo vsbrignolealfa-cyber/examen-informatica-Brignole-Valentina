@@ -1,5 +1,5 @@
 # Fuentes de investigación (Perplexity)
-https://www.perplexity.ai/search/07bd276f-ba89-4d80-af1a-85346dafc06a
+Fuente general: https://www.perplexity.ai/search/07bd276f-ba89-4d80-af1a-85346dafc06a
 
 Mínimo 3 búsquedas. Una sección por búsqueda.
 
