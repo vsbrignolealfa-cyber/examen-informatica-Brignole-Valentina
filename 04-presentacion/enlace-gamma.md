@@ -1,6 +1,6 @@
 # Presentación en Gamma
 
-- **Enlace público de Gamma:**
+- **Enlace público de Gamma:**https://gamma.app/docs/Exportacion-de-yerba-mate-a-Paraguay-nsv85xdisj2qi4f
 
 ## Estructura obligatoria (6 láminas)
 1. Portada (módulo, nombre, tecnicatura)
